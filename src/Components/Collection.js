@@ -5,7 +5,7 @@ function Collection() {
     return (
         <div>
            <Container >
-               
+               <Alert variant='secondary' >This is the Collection Page</Alert>
            </Container>
         </div>
     )
